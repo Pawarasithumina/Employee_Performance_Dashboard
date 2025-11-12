@@ -1,4 +1,6 @@
-# Employee_Performance_DashboardThis project focuses on cleaning, transforming, and visualizing employee data in Microsoft Excel to create an interactive Employee Performance Dashboard.
+# Employee_Performance_Dashboard
+
+This project focuses on cleaning, transforming, and visualizing employee data in Microsoft Excel to create an interactive Employee Performance Dashboard.
 
 🧹 Data Cleaning & Preparation
 
